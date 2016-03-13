@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">dictionary_task</string>
+    <string name="activity_name">Dictionary</string>
+</resources>
